@@ -221,7 +221,7 @@ height: 90vh;
 display: flex;
 
 justify-content: right;
-background: linear-gradient(to left, rgb(0 0 0 / .5),rgb(0 0 0 / .5)),url(images/mujer-ordenador.png);
+background: linear-gradient(to left, rgb(0 0 0 / .5),rgb(0 0 0 / .5)),url(mujer-ordenador.png);
 background-size: cover;
 background-position: center;
 }
@@ -247,7 +247,7 @@ height: 90vh;
 display: flex;
 
 justify-content: left;
-background: linear-gradient(to left, rgb(0 0 0 / .5),rgb(0 0 0 / .5)),url(images/hombre-frente-a-ordenador.png);
+background: linear-gradient(to left, rgb(0 0 0 / .5),rgb(0 0 0 / .5)),url(hombre-frente-a-ordenador.png);
 background-size: cover;
 background-position: center;
 }
@@ -274,7 +274,7 @@ height: 90vh;
 display: flex;
 
 justify-content: right;
-background: linear-gradient(to left, rgb(0 0 0 / .5),rgb(0 0 0 / .5)),url(images/chica-estudiando.png);
+background: linear-gradient(to left, rgb(0 0 0 / .5),rgb(0 0 0 / .5)),url(chica-estudiando.png);
 background-size: cover;
 background-position: center;
 }
